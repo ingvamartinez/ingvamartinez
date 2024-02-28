@@ -4,11 +4,11 @@
 
 - I have skills in Python for Big Data, Machine Learning, Deep Learning. i'm always seeking to improve this and get new knowledge.
 - I studied some other Code Languages long my life, for example, php, javascript, java, sql, mysql, etc.
-- i have skills in Tableau and PowerBI, all about Dashboard.
+- i have skills in Tableau and PowerBI, all about Dashboards.
 
 - 🔭 I’m currently working on Stefanini as Process Analyst for 4 years.
-- 🌱 I’m always learning some new that improve my skills as professional as personal live.
-- 🖥️📉📊📈📋 I have 8 expertise years as Data Analist. I worked with big companies.
+- 😎 I’m always learning some new that improve my skills as professional as personal live.
+- 🖥️📉📊📈📋 I have expertise as Data Analist for a little more 8 years. I worked with big companies.
 
 
 <!--
