@@ -1,4 +1,4 @@
-<align='center'>### Hi there 👋</align>
+### Hi there 👋
 
 - I'm Electronic Engineer, Specialize in Big Data and Data Analyst.
 
