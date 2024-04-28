@@ -7,7 +7,7 @@
 - i have skills in Tableau and PowerBI, all about Dashboards.
 
 - 🔭 I’m currently working on Stefanini as Process Analyst for 4 years.
-- 😎 I’m always learning some new that improve my skills as professional as personal live.
+- 😎 I’m always learning some new that improve my skills as professional as personal.
 - 🖥️📉📊📈📋 I have expertise as Data Analist for a little more 8 years. I worked with big companies.
 
 
