@@ -81,16 +81,26 @@ Concepts:         Big Data | ML Systems | Analytics Architecture
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ingvamartinez&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingvamartinez&theme=tokyonight" /> </p>
 
 🧭 Working Philosophy
+
 Business first, code second
+
 Simple models > complex unnecessary systems
+
 Automation over repetition
+
 Data must tell a story
+
 Every dashboard should drive action
+
 📫 Contact
+
 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+
 📧 Email: your.email@example.com
+
 🌐 Portfolio: https://your-portfolio.com
+
 📍 Location: Miami / Remote
-🎯 Career Goal
+
 
 To contribute to high-impact Data Science and AI teams, building scalable systems that transform raw data into strategic business decisions.
