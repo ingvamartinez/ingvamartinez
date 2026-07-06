@@ -122,5 +122,7 @@ Every dashboard should drive action
 
 📍 Location: Miami / Remote
 
+🎯 Career Goal
+
 
 To contribute to high-impact Data Science and AI teams, building scalable systems that transform raw data into strategic business decisions.
