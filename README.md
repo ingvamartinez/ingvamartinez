@@ -1,27 +1,104 @@
-### Hi there 👋
+🚀 Adrian Martinez
+Data Analyst | Machine Learning Engineer | AI & Big Data
 
-- I'm Electronic Engineer, Specialize in Big Data and Data Analyst.
+“Turning data into decisions that move business forward.”
 
-- I have skills in Python for Big Data, Machine Learning, Deep Learning. i'm always seeking to improve this and get new knowledge.
-- I studied some other Code Languages long my life, for example, php, javascript, java, sql, mysql, etc.
-- i have skills in Tableau and PowerBI, all about Dashboards.
+🧩 GitHub Portfolio Overview
+<p align="center"> <img src="https://img.shields.io/badge/Data%20Science-Expert-blue" /> <img src="https://img.shields.io/badge/Machine%20Learning-Active%20Builder-green" /> <img src="https://img.shields.io/badge/Python-Advanced-yellow" /> <img src="https://img.shields.io/badge/SQL-Advanced-orange" /> <img src="https://img.shields.io/badge/AI-OpenAI%20API-purple" /> </p>
+👨‍💻 About Me
 
-- 🔭 I’m currently working on Stefanini as Process Analyst for 4 years.
-- 😎 I’m always learning some new that improve my skills as professional as personal.
-- 🖥️📉📊📈📋 I have expertise as Data Analist for a little more 8 years. I worked with big companies.
+I am a Senior Data Analyst with 7+ years of experience building scalable data solutions, analytics systems, and machine learning models across finance, CRM, and enterprise environments.
 
+My focus is simple:
 
-<!--
-**ingvamartinez/ingvamartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Extract value from data → transform it into insights → drive real business impact.
 
-Here are some ideas to get you started:
+🧠 Core Expertise
+📊 Analytics & BI
+Power BI (DAX, modeling, dashboards)
+Tableau / Looker Studio
+KPI design & executive reporting
+🐍 Data Science & ML
+Python (Pandas, NumPy, Scikit-learn)
+Clustering (K-Means, segmentation)
+Predictive modeling
+Feature engineering
+🤖 AI & NLP
+OpenAI API integration
+Embeddings (text-embedding-3-small)
+Semantic classification systems
+AI-powered automation pipelines
+🧱 Data Engineering
+SQL optimization (advanced queries)
+ETL processes (Xceptor, pipelines)
+Data cleaning & transformation
+API-driven workflows
+🚀 Featured Projects
+🔹 Seller Segmentation (K-Means Clustering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-driven segmentation model for marketplace sellers
+
+Clustering based on: stock, price, products, seller activity
+Goal: identify high-value business segments
+Outcome: improved targeting and business strategy
+
+Stack: Python · Pandas · Scikit-learn · Power BI · SQL
+
+🔹 Semantic Classification Engine (Embeddings)
+
+Intelligent system using OpenAI embeddings
+
+Converts text into vector representations
+Performs semantic grouping & classification
+Enables automation of business categorization
+
+Stack: Python · OpenAI API · NLP · Vector Embeddings
+
+🔹 Executive Analytics Dashboards
+
+Business intelligence dashboards for decision makers
+
+KPI monitoring across regions and products
+Financial & operational insights
+Automated reporting systems
+
+Stack: Power BI · SQL · Excel · Data Modeling
+
+⚙️ Tech Stack
+Languages:        Python | SQL
+Data Science:     Pandas | NumPy | Scikit-learn
+BI Tools:         Power BI | Tableau | Looker Studio
+AI / NLP:         OpenAI API | Embeddings | NLP pipelines
+Data Engineering: ETL | APIs | Data Modeling
+Concepts:         Big Data | ML Systems | Analytics Architecture
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
+🧭 Working Philosophy
+Business first, code second
+Simple models > complex unnecessary systems
+Automation over repetition
+Data must tell a story
+Every dashboard should drive action
+📫 Contact
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+📧 Email: your.email@example.com
+🌐 Portfolio: https://your-portfolio.com
+📍 Location: Miami / Remote
+🎯 Career Goal
+
+To contribute to high-impact Data Science and AI teams, building scalable systems that transform raw data into strategic business decisions.
+
+🔥 Si quieres el siguiente nivel (nivel brutal FAANG)
+
+Puedo ayudarte a crear esto también:
+
+🚀 1. GitHub “killer profile”
+Banner superior tipo Stripe / Google
+Sección de proyectos tipo Airbnb/Netflix
+Cards de impacto visual
+🚀 2. README por proyecto (MELI)
+Versión tipo paper de investigación
+con gráficos, métricas, resultados
+🚀 3. Portfolio web (nivel contratación USA)
+tipo: “hire me page”
+estilo Apple / Notion
