@@ -1,32 +1,36 @@
 🚀 Adrian Martinez
+
+
 Data Analyst | Machine Learning Engineer | AI & Big Data
 
 “Turning data into decisions that move business forward.”
 
 🧩 GitHub Portfolio Overview
 <p align="center"> <img src="https://img.shields.io/badge/Data%20Science-Expert-blue" /> <img src="https://img.shields.io/badge/Machine%20Learning-Active%20Builder-green" /> <img src="https://img.shields.io/badge/Python-Advanced-yellow" /> <img src="https://img.shields.io/badge/SQL-Advanced-orange" /> <img src="https://img.shields.io/badge/AI-OpenAI%20API-purple" /> </p>
+
+
 👨‍💻 About Me
 
-I am a Senior Data Analyst with 7+ years of experience building scalable data solutions, analytics systems, and machine learning models across finance, CRM, and enterprise environments.
+I am a Senior Data Analyst with 7+ years of experience building scalable data solutions, analytics systems, and machine learning models across finance, CRM, and enterprise environments.</n>
 
 My focus is simple:
 
-Extract value from data → transform it into insights → drive real business impact.
+Extract value from data → transform it into insights → drive real business impact.</n>
 
-🧠 Core Expertise
-📊 Analytics & BI
-Power BI (DAX, modeling, dashboards)
-Tableau / Looker Studio
-KPI design & executive reporting
-🐍 Data Science & ML
-Python (Pandas, NumPy, Scikit-learn)
-Clustering (K-Means, segmentation)
-Predictive modeling
-Feature engineering
-🤖 AI & NLP
-OpenAI API integration
-Embeddings (text-embedding-3-small)
-Semantic classification systems
+🧠 Core Expertise</n>
+📊 Analytics & BI</n>
+Power BI (DAX, modeling, dashboards)</n>
+Tableau / Looker Studio</n>
+KPI design & executive reporting</n>
+🐍 Data Science & ML</n>
+Python (Pandas, NumPy, Scikit-learn)</n>
+Clustering (K-Means, segmentation)</n>
+Predictive modeling</n>
+Feature engineering</n>
+🤖 AI & NLP</n>
+OpenAI API integration</n>
+Embeddings (text-embedding-3-small)</n>
+Semantic classification systems</n>
 AI-powered automation pipelines
 🧱 Data Engineering
 SQL optimization (advanced queries)
