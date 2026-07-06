@@ -66,13 +66,20 @@ Stack: Power BI · SQL · Excel · Data Modeling
 
 ⚙️ Tech Stack
 Languages:        Python | SQL
+
 Data Science:     Pandas | NumPy | Scikit-learn
+
 BI Tools:         Power BI | Tableau | Looker Studio
+
 AI / NLP:         OpenAI API | Embeddings | NLP pipelines
+
 Data Engineering: ETL | APIs | Data Modeling
+
 Concepts:         Big Data | ML Systems | Analytics Architecture
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ingvamartinez&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingvamartinez&theme=tokyonight" /> </p>
+
 🧭 Working Philosophy
 Business first, code second
 Simple models > complex unnecessary systems
