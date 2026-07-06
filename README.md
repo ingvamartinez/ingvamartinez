@@ -17,8 +17,7 @@ My focus is simple:
 
 Extract value from data → transform it into insights → drive real business impact.</n>
 
-🧠 Core Expertise</n>
-📊 Analytics & BI</n>
+🧠 Core Expertise</n>📊 Analytics & BI</n>
 Power BI (DAX, modeling, dashboards)</n>
 Tableau / Looker Studio</n>
 KPI design & executive reporting</n>
