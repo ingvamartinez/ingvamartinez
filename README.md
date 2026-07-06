@@ -24,21 +24,35 @@ Extract value from data → transform it into insights → drive real business i
 Power BI (DAX, modeling, dashboards), 
 Tableau / Looker Studio</n>
 KPI design & executive reporting</n>
+
+
 🐍 Data Science & ML</n>
+
+
 Python (Pandas, NumPy, Scikit-learn)</n>
 Clustering (K-Means, segmentation)</n>
 Predictive modeling</n>
 Feature engineering</n>
+
+
 🤖 AI & NLP</n>
+
+
 OpenAI API integration</n>
 Embeddings (text-embedding-3-small)</n>
 Semantic classification systems</n>
 AI-powered automation pipelines
+
+
 🧱 Data Engineering
+
+
 SQL optimization (advanced queries)
 ETL processes (Xceptor, pipelines)
 Data cleaning & transformation
 API-driven workflows
+
+
 🚀 Featured Projects
 🔹 Seller Segmentation (K-Means Clustering)
 
