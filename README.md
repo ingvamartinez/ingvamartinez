@@ -72,7 +72,7 @@ AI / NLP:         OpenAI API | Embeddings | NLP pipelines
 Data Engineering: ETL | APIs | Data Modeling
 Concepts:         Big Data | ML Systems | Analytics Architecture
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ingvamartinez&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ingvamartinez&theme=tokyonight" /> </p>
 🧭 Working Philosophy
 Business first, code second
 Simple models > complex unnecessary systems
@@ -87,18 +87,3 @@ Every dashboard should drive action
 🎯 Career Goal
 
 To contribute to high-impact Data Science and AI teams, building scalable systems that transform raw data into strategic business decisions.
-
-🔥 Si quieres el siguiente nivel (nivel brutal FAANG)
-
-Puedo ayudarte a crear esto también:
-
-🚀 1. GitHub “killer profile”
-Banner superior tipo Stripe / Google
-Sección de proyectos tipo Airbnb/Netflix
-Cards de impacto visual
-🚀 2. README por proyecto (MELI)
-Versión tipo paper de investigación
-con gráficos, métricas, resultados
-🚀 3. Portfolio web (nivel contratación USA)
-tipo: “hire me page”
-estilo Apple / Notion
